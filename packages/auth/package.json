@@ -13,8 +13,8 @@
     "typecheck": "tsc --noEmit --emitDeclarationOnly false"
   },
   "dependencies": {
-    "@clerk/nextjs": "^6.37.3",
-    "next": "16.1.6",
+    "@clerk/nextjs": "^6.39.8",
+    "next": "16.4.2",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "server-only": "^0.0.1"
